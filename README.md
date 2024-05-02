@@ -2,7 +2,7 @@
 <h1 align="center">WELCOME TO MY GitHub PROFILE!</h1>
 <h1 align="center">Hi 👋, I'm  Md Masud Rana</h1>
 <h5 align="center">Competitive Programmer & Software Engineer</h5>
-<h3 align="center">Passionate CSE Student| Competitive Programmer | Exploring the Boundless World of Technology</h3>
+<h3 align="center">Passionate CSE Student| Competitive Programmer | Web Developer | Exploring the Boundless World of Technology</h3>
 <p align="center"> 
   <a href="https://leetcode.com/Neamul_haq/">
     <img src="https://cp-logo.vercel.app/leetcode/Neamul_haq/" alt="Leet code rating" />
@@ -35,11 +35,11 @@
 </td>
  <td width="50%" align="left">
 
-- ⚙️ I use daily: `.cpp`, `.js`
+- ⚙️ I use daily: `.cpp`, `.js`,`.py`
 - 🌍 I'm mostly active within the **Cpusplus Community**
-- 🌱 Learning all about **Competitive Programming**
+- 🌱 Learning all about **Competitive Programming** 
 - 💬 Ping me about **Cpp**, **Problem-Setting**, **Problem-Testing**, **Competitive-Training**
-- 📫 Reach me: **neamul.cse6.bu@gmail.com**
+- 📫 Reach me: **rana.cse6.bu@gmail.com**
   
   </td>
 </tr>
@@ -49,29 +49,27 @@
 <h3 align="center">Connect With Me:</h3>
 
 <p align="center">
-<a href="https://twitter.com/neamul_haq">
+<a href="https://twitter.com/BuCse6">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
 </a> 
-<a href="https://www.linkedin.com/in/neamulhaq/">
+<a href="https://www.linkedin.com/in/md-masud-rana-5b1a17214/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
-<a href="https://www.facebook.com/neamul.haq.5/">
+<a href="https://www.facebook.com/profile.php?id=100008709106619">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
 </a>
-<a href="mailto:neamul.cse6.bu.@gmail.com">
+<a href="mailto:rana.cse6.bu.@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
-</a>
+<!--</a>
   <a href="https://discordapp.com/users/1112011885018107905">
   <img src="https://img.shields.io/badge/Discord-12100E?style=for-the-badge&logo=discord&logoColor=white" height=25>
-</a>
+</a>-->
 
-  <a href="https://codeforces.com/profile/Neyamul_Haq">
+  <a href="https://codeforces.com/profile/MASUD_BU">
   <img src="https://img.shields.io/badge/Codeforces-12100E?style=for-the-badge&logo=codeforces&logoColor=white" height=25>
 </a>
-  <a href="https://leetcode.com/Neamul_haq/">
-  <img src="https://img.shields.io/badge/LeetCode-12100E?style=for-the-badge&logo=leetcode&logoColor=white" height=25>
-</a>
-  <a href="https://www.codechef.com/users/no_one22">
+  
+  <a href="https://www.codechef.com/users/ranacse6bu">
   <img src="https://img.shields.io/badge/Codechef-12100E?style=for-the-badge&logo=codechef&logoColor=white" height=25>
 </a>
 </p>
