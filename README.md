@@ -7,7 +7,7 @@
   <a href="https://leetcode.com/Neamul_haq/">
     <img src="https://cp-logo.vercel.app/leetcode/Neamul_haq/" alt="Leet code rating" />
   </a>
-<a href="https://codeforces.com/profile/Neyamul_Haq">
+<a href="https://codeforces.com/profile/MASUD_BU">
     <img src="https://github.com/neamul-haq/cf-statistics/blob/main/output/max_rating.svg" alt="CF rating" />
   </a>
   <a href="https://www.codechef.com/users/no_one22">
