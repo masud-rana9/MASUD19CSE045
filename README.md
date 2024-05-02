@@ -1,22 +1,19 @@
 <!--<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>-->
 <h1 align="center">WELCOME TO MY GitHub PROFILE!</h1>
 <h1 align="center">Hi 👋, I'm  Md Masud Rana</h1>
-<h5 align="center">Competitive Programmer & Software Engineer</h5>
-<h3 align="center">Passionate CSE Student| Competitive Programmer | Web Developer | Exploring the Boundless World of Technology</h3>
+<h5 align="center">Competitive Programmer & Fullstack Web Developer</h5>
+<h3 align="center">Passionate CSE Student| Competitive Programmer |Fullstack Web Developer | Exploring the Boundless World of Technology</h3>
 <p align="center"> 
-  <a href="https://leetcode.com/Neamul_haq/">
-    <img src="https://cp-logo.vercel.app/leetcode/Neamul_haq/" alt="Leet code rating" />
-  </a>
 <a href="https://codeforces.com/profile/MASUD_BU">
     <img src="https://github.com/neamul-haq/cf-statistics/blob/main/output/max_rating.svg" alt="CF rating" />
   </a>
-  <a href="https://www.codechef.com/users/no_one22">
+  <a href="https://www.codechef.com/users/ranacse6bu">
     <img height='20px' width='80px'  style="object-fit: cover" src="https://asset.brandfetch.io/idM2-b7Taf/id6L822oFL.jpeg" alt="CodeChef" />
   </a>
-  <a href="https://github.com/neamul-haq?tab=followers">
+  <a href="https://github.com/MASUD19CSE045/MASUD19CSE045">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/neamul-haq?color=green&logo=github">
   </a>
-  <a href="https://github.com/neamul-haq?tab=repositories">
+  <a href="https://github.com/MASUD19CSE045/MASUD19CSE045">
    <img src="https://komarev.com/ghpvc/?username=neamul-haq&label=Profile%20views&color=0e75b6&style=flat" alt="neamul_haq" /> 
   </a>
 </p>
@@ -101,7 +98,7 @@
   
 ---
 
-<b>&#128200; Competitive Programming</b>
+<!--<b>&#128200; Competitive Programming</b>
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/Neamul_haq?theme=light&font=Karma&ext=contest" />
 </p>
@@ -124,6 +121,6 @@
   
   </td>
 </tr>
-</table>
+</table>-->
 
 ---
